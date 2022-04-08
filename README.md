@@ -9,4 +9,4 @@
 
 - 📫 Contato **gabrielmagalhaes777@gmail.com**
 
-- 📄 Conheça minhas experiências [ www.linkedin.com/in/gabriel-marques-magalhaes ](www.linkedin.com/in/gabriel-marques-magalhaes)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/gabriel-marques-magalhaes](https://www.linkedin.com/in/gabriel-marques-magalhaes)
