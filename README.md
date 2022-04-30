@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Gabriel Marques</h1>
 <h3 align="center">Desenvolvedor web / Analista de sistemas</h3>
 
-- 🌱 Atualmente estou aprendendo **Php, Mysql, javaScript**
+- 🌱 Atualmente estou aprendendo **NodeJs, Mysql, MongoDB, React**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [ https://github.com/NikisGabriel ](https://github.com/NikisGabriel)
 
