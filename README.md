@@ -23,8 +23,6 @@
 </div>
 <br>
 
-* [mais informações](https://github.com/NikisGabriel/Curriculo)
-
 <br>
 
 <h3>📍Ficha tecnica </h3>
