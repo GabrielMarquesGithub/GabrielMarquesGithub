@@ -27,9 +27,9 @@
 
 <h3>📍Ficha tecnica </h3>
 
-- 👦 Meu nome completo é Gabriel Marques Magalhães tenho 20
+- 👦 Meu nome completo é Gabriel Marques Magalhães tenho 20 anos
 - 📝 Estou cursando SI no Instituto federal do norte de minas gerais (IFNMG) - campus Arinos
-- 📁 Todos os meus projetos estão disponíveis em [ https://github.com/NikisGabriel ](https://github.com/NikisGabriel?tab=repositories)
+- 📁 Todos os meus projetos estão disponíveis aki
 
 <h3>✉️ Contato, sempre online hehe </h3>
 
