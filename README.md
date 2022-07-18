@@ -6,6 +6,7 @@
   <a href="https://github.com/NikisGabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikisGabriel&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikisGabriel&layout=compact&langs_count=8&theme=monokai">
+    <a/>
 </div>
 <br>
 <h3>👨🏽‍💻 Atualmente domino as seguintes ferramentas</h3>
@@ -29,7 +30,7 @@
 
 - 👦 Meu nome completo é Gabriel Marques Magalhães tenho 20 anos
 - 📝 Estou cursando SI no Instituto federal do norte de minas gerais (IFNMG) - campus Arinos
-- 📁 Todos os meus projetos estão disponíveis aki
+- 📁 Todos os meus projetos estão disponíveis [aki](https://github.com/NikisGabriel?tab=repositories)
 
 <h3>✉️ Contato, sempre online hehe </h3>
 
