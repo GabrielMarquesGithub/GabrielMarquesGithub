@@ -19,7 +19,6 @@
 
 <h3>✉️ Contato, sempre online hehe </h3>
 
-* Local:    Arinos/MG <br>
 * Telefone:   (38) 99965 - 6691 <br>
 * E-mail:  gabriel.magalhaes.dev@gmail.com
 * Linkedin: [Gabriel Marques Magalhães](https://www.linkedin.com/in/gabrielmarquesmagalhaes/)
