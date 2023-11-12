@@ -9,14 +9,4 @@
     <a/>
 </div>
 
-<br>
 
-<h3>📍Ficha tecnica </h3>
-
-- 📝 Estou cursando SI no Instituto federal do norte de minas gerais (IFNMG) - campus Arinos
-- 📁 Todos os meus projetos estão disponíveis [aki](https://github.com/NikisGabriel?tab=repositories)
-
-<h3>✉️ Contato, sempre online hehe </h3>
-
-* E-mail:  gabriel.magalhaes.dev@gmail.com
-* Linkedin: [Gabriel Marques Magalhães](https://www.linkedin.com/in/gabrielmarquesmagalhaes/)
