@@ -13,7 +13,6 @@
 
 <h3>📍Ficha tecnica </h3>
 
-- 👦 Meu nome completo é Gabriel Marques Magalhães nasci em 10 / 06 / 2002
 - 📝 Estou cursando SI no Instituto federal do norte de minas gerais (IFNMG) - campus Arinos
 - 📁 Todos os meus projetos estão disponíveis [aki](https://github.com/NikisGabriel?tab=repositories)
 
