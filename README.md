@@ -1,6 +1,6 @@
 <h1 align="center">Eae 👋, me chamo Gabriel Marques<br>Seja bem vindo a minha caixa de coisas legais :3</h1>
 
-<h3 align="center">Desenvolvedor Web Full Stack / DevOps</h3>
+<h3 align="center">Desenvolvedor Full Stack / DevOps</h3>
 <br>
 <section align="center">
   <a href="https://github.com/NikisGabriel">
